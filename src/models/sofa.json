@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "mebel_name": "mebel 1",
+        "price": "1 000 000"
+    },
+    {
+        "id": 2,
+        "mebel_name": "mebel 2",
+        "price": "1 000 000"
+    },
+    {
+        "id": 3,
+        "mebel_name": "mebel 3",
+        "price": "1 000 000"
+    },
+    {
+        "id": 4,
+        "mebel_name": "mebel 4",
+        "price": "1 000 000"
+    },
+    {
+        "id": 5,
+        "mebel_name": "mebel 5",
+        "price": "1 000 000"
+    },
+    {
+        "id": 6,
+        "mebel_name": "mebel 6",
+        "price": "12"
+    },
+    {
+        "id": 7,
+        "mebel_name": "mebel 7",
+        "price": "122121"
+    }
+]
